@@ -1,8 +1,8 @@
 ---
 title: "HelixParse"
 slug: "helix-parse"
-status: "under_review"
-venue: "Under review"
+status: "accepted"
+venue: "EVALCON 2026"
 maintainers: "J. Whitfield; N. Osei"
 summary: "Structured parsing toolkit for multi-omics sequence records."
 ---
