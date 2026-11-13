@@ -1,8 +1,8 @@
 ---
 title: "Paleo-Bench"
 slug: "paleo-bench"
-status: "under_review"
-venue: "Under review"
+status: "accepted"
+venue: "EVALCON 2026"
 maintainers: "S. Iversen; H. Duarte"
 summary: "Long-horizon benchmark for paleoclimate reconstruction models."
 ---
